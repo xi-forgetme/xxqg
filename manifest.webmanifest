@@ -1,0 +1,17 @@
+{
+  "name": "学习墙国",
+  "short_name": "学习强国",
+  "description": "lmao",
+  "scope": "/xxqg",
+  "start_url": "/xxqg",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/xxqg/img/icon.png",
+        "type": "image/png",
+        "sizes": "127x127"
+      }
+  ]
+}
